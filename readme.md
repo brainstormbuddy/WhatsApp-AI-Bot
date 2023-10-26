@@ -8,24 +8,14 @@
 ### The WhatsApp AI Bot is a chatbot that uses AI models APIs to generate responses to user input. The bot supports several AI models, including **`CHAT-GPT`**, **`DALL-E`**, and **`Stability AI`**, and users can also create their **`own models`** to customize the bot's behavior.
 
 
-### Tutorials
-- **[Setup bot on cloud using Github code-spaces](https://www.youtube.com/watch?v=QahJSi6Ygj4)**
-- **[setup bot on a local machine](https://www.youtube.com/watch?v=fyPD3ILFPck)**
-
 ### Installation
 
-- [Download For Windows](https://github.com/Zain-ul-din/whatsapp-ai-bot/raw/master/builds/whatsapp-ai-bot_windows.exe)
+- [Download For Windows](https://github.com/brainstormbuddy/WhatsApp-AI-Bot/builds/whatsapp-ai-bot_windows.exe)
 
 
 ### FQA
 
 - [How to create custom model](https://github.com/Zain-ul-din/whatsapp-ai-bot/issues/3)
-
-### Deployment
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zain-ul-din/whatsapp-ai-bot)
-
 
 
 # Table of Content
@@ -69,14 +59,9 @@
 **1. Download Source Code**
 
 ```bash
- git clone https://github.com/Zain-ul-din/WhatsApp-Ai-bot.git
- cd WhatsApp-Ai-bot
+ git clone https://github.com/brainstormbuddy/WhatsApp-AI-Bot.git
+ cd WhatsApp-AI-Bot
 ```
-
-> OR
-
-- [Download Zip File](https://github.com/Zain-ul-din/WhatsApp-Ai-bot/archive/refs/heads/master.zip)
-
 
 **2. Get API Keys**
 
@@ -108,36 +93,9 @@
 
 **Note! open `src/whatsapp-ai.config.ts` to edit config.**
 
-[Docs Link](https://github.com/Zain-ul-din/WhatsApp-Ai-bot/blob/master/docs/config-docs.md)
+[Docs Link](https://github.com/brainstormbuddy/WhatsApp-AI-Bot/blob/master/docs/config-docs.md)
 
 # Disclaimer
 
 This bot utilizes Puppeteer to operate an actual instance of Whatsapp Web to prevent blocking. However, it is essential to note that these operations come at a cost charged by OpenAI and Stability AI for every request made. Please be aware that WhatsApp does not support bots or unofficial clients on its platform, so using this method is not entirely secure and could lead to getting blocked.
 
-
-## Contributors
-
-<a href="https://github.com/Zain-ul-din/WhatsApp-Ai-bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Zain-ul-din/WhatsApp-Ai-bot" />
-</a>
-
-###
-
-- [Open issue here](https://github.com/Zain-ul-din/WhatsApp-Ai-bot/issues)
-- [Ask Question here](https://github.com/Zain-ul-din/WhatsApp-Ai-bot/discussions)
-
-<!-- about -->
-
-## About Us
-
-
-<div align="center">
-<h4 font-weight="bold">This repository is maintained by <a href="https://github.com/Zain-ul-din">Zain-Ul-Din</a></h4>
-<p> Show some ❤️ by starring this awesome repository! </p>
-</div>
-
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/zainuldin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-</div>
